@@ -8,6 +8,10 @@ $family = array(
     2 => 'Christophe', 
     3 => 'Isabelle', 
     4 => 'Ludovic');
+
+
+$hour=idate("H");
+$minut=idate("i");
 ?>
 
 <!DOCTYPE html>
